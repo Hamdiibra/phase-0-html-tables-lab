@@ -141,9 +141,9 @@ entire table would look like the following:
     <td>Chips</td>
   </tr>
   <tr>
-    <td>Terrance</td>
-    <td>914-555-1212</td>
-    <td>Salsa</td>
+    <td>Rachel</td>
+    <td>718-555-1212</td>
+    <td>Chips</td> 
   </tr>
 </table>
 ```
